@@ -18,11 +18,11 @@
 #include <BasicLinearAlgebra.h>
 #include <ElementStorage.h>
 
-#include <DEV_Config_WEMOS.h>
-#include <Debug_WEMOS.h>
-#include <GUI_Paint_WEMOS.h>
-#include <OLED_Driver_WEMOS.h>
-#include <fonts_WEMOS.h>
+#include <DEV_Config.h>
+#include <Debug.h>
+#include <GUI_Paint.h>
+#include <OLED_Driver.h>
+#include <fonts.h>
 
 using namespace BLA;
 

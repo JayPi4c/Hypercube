@@ -13,7 +13,8 @@ NOTE: these are no affiliate links. It's just for you to know what products I us
 
 ## Libraries
 - [BasicLinearAlgebra](https://www.arduino.cc/reference/en/libraries/basiclinearalgebra/) for matrix operations
-- [Waveshare OLED Library](https://www.waveshare.com/wiki/1.51inch_Transparent_OLED#Resource) for the display
+- ([Waveshare OLED Library](https://www.waveshare.com/wiki/1.51inch_Transparent_OLED#Resource) for the display)
+- A custom adaptation of the Waveshare OLED library can be downloaded cloned here: https://github.com/JayPi4c/1.51inch-Transparent-OLED-Arduino-library
 
 The Waveshare OLED library is not available in the Arduino IDE library manager. You have to download it from the link above and install it manually. Additionally the library did not work out of the box for the wemos microcontroller. So I adjusted it accordingly. That also explains, why the included OLED-library has the WEMOS postfix.
 
